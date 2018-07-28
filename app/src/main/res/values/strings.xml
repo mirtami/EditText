@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EditText</string>
+    <string name="email">Enter email</string>
+    <string name="password">Enter password</string>
+    <string name="send">Send</string>
+    <string name="login_error">Ошибка ввода данных</string>
+
+</resources>
